@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
+﻿using System;
 
 namespace Squid_Game
 {
@@ -108,3 +107,4 @@ namespace Squid_Game
         }
     }   // Εδώ τελειώνει η κλάση SquidGame.
 }
+
